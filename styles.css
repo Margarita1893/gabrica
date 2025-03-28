@@ -1,0 +1,20 @@
+body{
+    background-image: url("C:/Users/USER/Documents/gabrica/img/gabrica_extended.png");    
+    background-repeat: no-repeat; 
+    background-color: blueviolet;
+    background-size: cover;                   ;
+}
+
+header .logo a img {
+    width: 30%;
+}
+
+.form1{
+    border-radius: 20PX;
+    background-color: rgb(225, 225, 225);
+    padding: 5%;
+    width: 40%;
+}
+.form-control{
+    width: 25px;
+}
